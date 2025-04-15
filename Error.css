@@ -1,0 +1,14 @@
+.error-container{
+    margin: auto;
+    width: 100%;
+    background-color: #fff;
+
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f2f2f2;
+
+}
